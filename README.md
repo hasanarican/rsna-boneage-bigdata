@@ -85,4 +85,4 @@ docker ps
 docker-compose down
 
 ## Author
-Hasan Arican | MSc Data Analytics | Berlin School of Business & Innovation | 2025
+Hasan Arican | MSc Data Analytics | Berlin School of Business & Innovation | 2026
